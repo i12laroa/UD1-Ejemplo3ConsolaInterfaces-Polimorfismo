@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace UD1_Ejemplo3ConsolaInterfaces_Polimorfismo
+{
+   interface IVehiculo
+    {
+            void Arrancar();
+            void Detener();
+    }
+}
